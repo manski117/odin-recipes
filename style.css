@@ -1,0 +1,33 @@
+h1{
+    font-family: Verdana;
+    font-size: 48px;
+    color: red;
+    
+}
+
+li{
+    float: left;
+    clear: left;
+}
+
+.image{
+    width: 300px;
+    height: auto;
+    float:right;
+    padding: 20px;
+}
+
+.header{
+
+}
+
+.recipe-steps{
+    padding: 10px;
+    margin: 5px;
+}
+
+.recipe-ingredients{
+    padding: 10px;
+    margin: 5px;
+}
+
