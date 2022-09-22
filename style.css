@@ -12,10 +12,10 @@ h1{
     
 }
 
-li{
+/* li{
     float: left;
     clear: left;
-}
+} */
 
 .image{
     width: 300px;
@@ -36,5 +36,6 @@ li{
 .recipe-ingredients{
     padding: 10px;
     margin: 5px;
+    margin-right: 500px;
 }
 
