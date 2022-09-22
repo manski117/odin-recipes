@@ -12,20 +12,36 @@ h1{
     
 }
 
-/* li{
-    float: left;
-    clear: left;
-} */
+h3{
+    font-family:'Franklin Gothic Medium', sans-serif;
+}
+
+.home-body {
+    background-color: #CEF8D4;
+}
+
+.burger-body{
+    background-image: radial-gradient(red, orange, yellow)
+}
+
+.pasta-body{
+    background-image: linear-gradient(green, aquamarine, #49E2D6);
+    /* background-image: url("/recipe-images/patrick.gif"), url("/recipe-images/food.png"); */
+}
+
+.dulce-body{
+    /* background-image: url("recipe-images/patrick.gif"); */
+    background-repeat: no-repeat;
+    /* opacity: 0.25; */
+    background-color:antiquewhite;
+
+}
 
 .image{
     width: 300px;
     height: auto;
     float:right;
     padding: 20px;
-}
-
-.header{
-
 }
 
 .recipe-steps{
