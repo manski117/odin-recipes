@@ -1,7 +1,14 @@
 h1{
-    font-family: Verdana;
+    font-family: Helvetica;
     font-size: 48px;
+    stroke-width: .05;
+    font-weight: 800;
+    font-style:italic;
+    text-transform:uppercase;
     color: red;
+    -webkit-text-stroke-color: rgb(255, 204, 127);
+    -webkit-text-stroke-width: 1px;
+
     
 }
 
